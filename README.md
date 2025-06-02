@@ -1,2 +1,2 @@
-# ai-tutor-content
-ai-tutor-content 
+# AI Tutor Content
+Place your lesson media files here. Use raw GitHub URLs in your app.
